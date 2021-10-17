@@ -1,0 +1,11 @@
+C:\SETUP.EXE 
+
+Bizagi Studio v11.2.50556 10-1-2021 11:30:34 Uninstalling Connector Server...
+Bizagi Studio v11.2.50556 10-1-2021 11:30:34 Executing C:\Program Files\Bizagi\Bizagi Studio\ConnectorsService\uninstall.bat
+Bizagi Studio v11.2.50556 10-1-2021 11:30:34 uninstall.bat result: \-1
+Bizagi Studio v11.2.50556 10-1-2021 11:34:19 Executing C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil /name=BizAgi_ServerOperationsService "C:\Program Files\Bizagi\Bizagi Studio\ServerOperationsService\BizAgi.ServerOperationsService.exe"
+Bizagi Studio v11.2.50556 10-1-2021 11:34:28 Service found. Starting service
+Bizagi Studio v11.2.50556 10-1-2021 11:34:28 Installing Connector Server...
+Bizagi Studio v11.2.50556 10-1-2021 11:34:28 Executing C:\Program Files\Bizagi\Bizagi Studio\ConnectorsService\install.bat
+Bizagi Studio v11.2.50556 10-1-2021 11:34:32 Install service result: \0
+Bizagi Studio v11.2.50556 10-1-2021 11:34:32 Connector Server not found
