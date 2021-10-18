@@ -1,0 +1,6 @@
+1 Adjuntar documentos (informes y exámenes) de salud.
+2 Tener el rol (Manita Verde tiene sub roles y azul).
+3 Tener un formulario denominado totta (indicaremos la fecha de inicio y la fecha de fin y el objetivo del cambio del mal hábito).
+4 Tener un formulario (pre-test, objetivo es conocer a la persona sus hábitos del pasado y actual en base a los 8 remedios naturales, esto es parte interna de la organización esta función…. no bien claro)
+5 Programa asignará un promotor de salud del programa a cambio a la manito azul (el reforzador tiene que tener un rol o perfil de manita verde)
+6 El programa debe tener formularios (conducta blanco a cambio, an) de coach y persona de manito azul. 
